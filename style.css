@@ -30,3 +30,68 @@
     height: 500px;
     width: 435px;
 }
+
+
+/* footer styling......................................... */
+
+
+.featured_flowers {
+    padding: 100px 150px 0px 150px;
+    font-family: 'Lato', sans-serif;
+}
+
+.featured_flowers_title {
+    font-size: 25px;
+    font-weight: 200px;
+    text-align: center;
+}
+
+.featured_flowers_description {
+    text-align: center;
+    padding: 0px 340px 30px 340px;
+    color: rgb(78, 77, 77);
+}
+
+.featured_flowers_about {
+    text-align: center;
+}
+
+.features_flowers_more {
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flower_name {
+    text-align: center;
+}
+
+
+.flower1 {
+    background-color: #fbeaed;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    height: 300px;
+    width: 270px;
+    padding: 100px 60px 0px 60px;
+}
+
+.flower2 {
+    background-color: #dafafcf1;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    height: 300px;
+    width: 270px;
+    padding: 80px 60px 30px 60px;
+
+}
+
+.flower3 {
+    background-color: #ecfbdd;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    height: 300px;
+    width: 270px;
+    padding: 100px 60px 0px 60px;
+}
