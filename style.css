@@ -95,3 +95,39 @@
     width: 270px;
     padding: 100px 60px 0px 60px;
 }
+
+
+
+/* hot deal part................. */
+.hot_deal {
+    display: flex;
+    padding: 70px 180px 0px 180px;
+    font-family: 'Lato', sans-serif;
+    background-color: #fbeaed;
+    align-items: center;
+    gap: 0px;
+}
+
+.hot_deal_flower {
+    width: 300px;
+    height: 350px;
+    padding-bottom: 50px;
+}
+
+.hot_deal_left_part {
+    text-align: center;
+    padding: 0px 220px;
+}
+
+.hot_deal_description {
+    text-align: center;
+    color: rgb(78, 77, 77);
+}
+
+.hot_deal_sign_up_btn {
+    background-color: #E55473;
+    color: white;
+    border: 0;
+    padding: 10px 17px;
+    border-radius: 4px;
+}
