@@ -1,0 +1,32 @@
+/* width=1920, height=850 */
+/* Header releted styles...................................... */
+.banner {
+    display: flex;
+    background-color: #fbeaed;
+    padding: 100px 150px 0px 150px;
+    gap: 150px;
+}
+
+.banner_title {
+    font-family: 'Lato', sans-serif;
+    font-size: 60px;
+    font-weight: 230px;
+}
+
+.banner_description {
+    color: rgb(78, 77, 77);
+    margin-bottom: 20px;
+}
+
+.shop_now_btn {
+    background-color: #E55473;
+    color: white;
+    border: 0;
+    padding: 10px 17px;
+    border-radius: 4px;
+}
+
+.banner_flower {
+    height: 500px;
+    width: 435px;
+}
