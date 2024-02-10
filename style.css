@@ -124,10 +124,37 @@
     color: rgb(78, 77, 77);
 }
 
+span {
+    color: #E55473;
+}
+
 .hot_deal_sign_up_btn {
     background-color: #E55473;
     color: white;
     border: 0;
     padding: 10px 17px;
     border-radius: 4px;
+}
+
+
+/* instagram flowers styles */
+.instagram {
+    padding: 100px 150px 0px 150px;
+    text-align: center;
+}
+
+.instagram_description {
+    text-align: center;
+    padding: 0px 340px 20px 340px;
+    color: rgb(78, 77, 77);
+}
+
+.instagram_flowers {
+    display: flex;
+    gap: 15px;
+}
+
+.instagram_flower_image {
+    height: 340px;
+    width: 300px;
 }
