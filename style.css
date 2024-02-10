@@ -100,6 +100,7 @@
 
 /* hot deal part................. */
 .hot_deal {
+    margin-top: 70px;
     display: flex;
     padding: 70px 180px 0px 180px;
     font-family: 'Lato', sans-serif;
@@ -156,16 +157,18 @@ span {
 
 .instagram_flower_image {
     height: 340px;
-    width: 300px;
+    width: 289px;
 }
 
 /* latest deals section */
 
-.instagram_section {
+.latest_deals_section {
     background-image: url('Flower Asset/Rectangle\ 9.png');
     background-repeat: no-repeat;
-    background-size: cover;
-    margin-top: 50px;
+    margin: 100px 150px 80px 150px;
+    height: 350px;
+    width: 1200px;
+
 }
 
 .latest_deals {
@@ -188,4 +191,31 @@ span {
     padding: 10px 17px;
     border-radius: 4px;
     margin-left: 5px;
+}
+
+
+/* footer section */
+.footer {
+    background-color: #111010;
+    text-align: center;
+}
+
+.footer_section {
+    padding: 70px 550px 70px 550px;
+
+}
+
+.footer_title {
+    color: white;
+}
+
+.footer_title_description {
+    color: #FFFFFF;
+    font-size: small;
+    font-weight: normal;
+}
+
+.footer_copyright {
+    color: gray;
+    font-size: x-small;
 }
