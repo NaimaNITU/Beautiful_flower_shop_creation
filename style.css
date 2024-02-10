@@ -158,3 +158,34 @@ span {
     height: 340px;
     width: 300px;
 }
+
+/* latest deals section */
+
+.instagram_section {
+    background-image: url('Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 50px;
+}
+
+.latest_deals {
+    padding: 100px 150px 80px 150px;
+    text-align: center;
+
+
+}
+
+#enter_email {
+    background-color: white;
+    border: 0;
+    padding: 10px 150px 10px 10px;
+}
+
+#subscribe_btn {
+    background-color: #E55473;
+    color: white;
+    border: 0;
+    padding: 10px 17px;
+    border-radius: 4px;
+    margin-left: 5px;
+}
